@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 qdf
+=======
+qw
+>>>>>>> 0af85ede41969787716f63058b92303a6301eb95
 werwdfw
 wfwdf
